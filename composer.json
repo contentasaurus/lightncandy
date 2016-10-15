@@ -1,6 +1,6 @@
 {
-    "name": "zordius/lightncandy",
-    "description": "An extremely fast PHP implementation of handlebars ( http://handlebarsjs.com/ ) and mustache ( http://mustache.github.io/ ).",
+    "name": "contentasaurus/lightncandy",
+    "description": "An extremely fast PHP implementation of handlebars ( http://handlebarsjs.com/ ) and mustache ( http://mustache.github.io/ ). This package forked from Zordius/LightnCandy.",
     "homepage": "https://github.com/zordius/lightncandy",
     "keywords": ["handlebars", "mustache", "PHP", "template", "logicless"],
     "license": "MIT",
